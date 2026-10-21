@@ -218,3 +218,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Protect from leaking the dataset 
+
+# Dataset directories
+data/
+datasets/
+checkpoints/
+models/
+
+# MRI data and archives
+*.mat
+*.h5
+*.hdf5
+*.zip
+
+# Trained model weights
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Python and notebook artifacts
+__pycache__/
+.ipynb_checkpoints/
+
