@@ -226,7 +226,3 @@ docs/_build/
 # - Model checkpoints
 # - Downloaded archives
 # - Credentials and API tokens
-
-# IMPORTANT:
-# .gitignore does not remove previously tracked files.
-# Review repository contents before submission.
