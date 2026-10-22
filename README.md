@@ -1,5 +1,3 @@
-# brain-tumor-mri-classification
-Brain tumor MRI classification using CNNs, ResNet-18, and controlled data augmentation experiments in PyTorch.
 # Can Deep Learning Reliably Distinguish Tumor Types from MRI Images?
 
 **Team SuperFrog** — Ethan Paredez and Sam Shema
