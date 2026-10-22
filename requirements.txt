@@ -1,0 +1,9 @@
+   torch>=2.0
+   torchvision>=0.15
+   numpy
+   h5py
+   Pillow
+   scikit-learn
+   pandas
+   matplotlib
+   requests
